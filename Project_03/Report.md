@@ -59,4 +59,4 @@ A table with used hyperparameters is included below:
 Above Table : Hyperparameters used by the best solving agent.
 
 #### Ideas for Future Work
-After training, when I checked the performance, it seems that the agents are imitating each other. Reason could be the symmetry of the environment. Multi-Agent DDPG would be apt for environment like Soccer. So, I am planning to implement and see the performance of MADDPG in Soccer environment.
+Multi-Agent Reinforcement Learning is a extremely versatile technique, training agents able to discover complex physical and communicative coordination strategies is a marvelous tool. An idea for future work is to create and evaluate a multi-agent environment that resembles a subway, where each agent (train) receives the same observations and the model learns to control all the trains while raising the passenger/time efficiency.
